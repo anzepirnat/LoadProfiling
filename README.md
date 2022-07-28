@@ -1,6 +1,6 @@
 # LoadProfiling
 This repository contains: 
-* code used for the webapp (ElderlyCareDemoWebApp.ipynb) 
+* code used for the webapp (ElderlyCareDashboard.ipynb) 
 * code which uses preprocessed data from Jakob's masters degree and turns them into web app ready data (DemoCode.ipynb)
 ## About the app
 Elderly care dahsboard is a webapp developed to showcase usability of anomaly detection on NILM datasets.
