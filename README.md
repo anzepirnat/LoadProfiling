@@ -1,9 +1,9 @@
 # LoadProfiling
 This repository contains: 
-* code used for the webapp (ElderlyCareDashboard.py) 
+* code used for the webapp (demo.py) 
 * code which uses preprocessed data from Jakob's masters degree and turns them into web app ready data (DemoCode.ipynb)
 ## About the app
-Elderly care dahsboard is a webapp developed to showcase usability of anomaly detection on NILM datasets.
+Elderly care dahsboard is a webapp developed as a demo to showcase usability of anomaly detection on NILM datasets.
 
 It works by studying the routine of the elders' electric device usage and then comparing current state to routine state. If current state deviates by the usual routine state enough on two devices at a time, it is recognised as an anomaly.
 
