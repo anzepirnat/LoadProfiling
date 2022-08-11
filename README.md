@@ -1,10 +1,10 @@
 # LoadProfiling
 This repository contains: 
-* code used for the webapp (demo.py), inside the map _use the newer version_
-* code which uses preprocessed data from Jakob's masters degree and turns them into webapp ready data (DemoCode.ipynb) _use the newer version_
+* code used for the webapp (demo.py), inside the map DemoWebApp
+* code which uses preprocessed data from Jakob's masters degree and turns them into webapp ready data (DemoCode.ipynb) _{use the newer version}_
 * dataset that contains processed data (ElderlyCareDemoResults.pkl)
 ## Docker
-This webapp is accesible in a [docker container](https://hub.docker.com/repository/docker/anzepirnat/ecdemo). _outdated!_
+This webapp is accesible in a [docker container](https://hub.docker.com/repository/docker/anzepirnat/ecdemo). _{outdated!}_
 ## About the app
 Elderly care dahsboard is a webapp developed as a demo to showcase usability of anomaly detection on NILM datasets.
 
