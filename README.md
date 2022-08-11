@@ -1,8 +1,8 @@
 # LoadProfiling
 This repository contains: 
-* code used for the webapp (demo.py) _use the newer version_
+* code used for the webapp (demo.py), inside the map _use the newer version_
 * code which uses preprocessed data from Jakob's masters degree and turns them into webapp ready data (DemoCode.ipynb) _use the newer version_
-* dataset that contains processed data 
+* dataset that contains processed data (ElderlyCareDemoResults.pkl)
 ## Docker
 This webapp is accesible in a [docker container](https://hub.docker.com/repository/docker/anzepirnat/ecdemo). _outdated!_
 ## About the app
@@ -18,4 +18,3 @@ Beside that the webapp provides the quality of routine, on which the accuracy of
 
 ## Lore
 This research was funded by Comsensus
-
