@@ -14,7 +14,7 @@ It is designed to give user an insight into the last anomaly detected, its accur
 
 To provide help to the elderly there is a phone number, location and some basic personal information that a caregiver can use to aid.
 
-Beside that the webapp provides the quality of routine, on which the accuracy of our prediction depends on. It also features the best and worst 3 devices by their impact on the quality of routine. We suggest the elser tries to improve on the worst 3. We give our feedback about them in a user friendly manner, describing them with: excellent, very good, good, quite good, decent, usable, almost usable, useless (adjectives are listed descending by their desirability).
+Beside that the webapp provides the quality of routine, on which the accuracy of our prediction depends on. It also features the most and least descriptive 3 devices by their impact on the quality of routine. We suggest the elders try to improve on their routine having the most descriptive 3 as an example. We give our feedback about them in a user friendly manner, describing them with easily understandable graphics.
 
 ## Acknowledgement
 This research was funded by Comsensus
