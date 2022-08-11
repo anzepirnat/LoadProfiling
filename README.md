@@ -10,7 +10,7 @@ Elderly care dahsboard is a webapp developed as a demo to showcase usability of 
 
 It works by studying the routine of the elders' electric device usage and then comparing current state to routine state. If current state deviates by the usual routine state enough on two devices at a time, it is recognised as an anomaly.
 
-It is designed to give user an insight into the last anomaly detected, its accuracy and date+time of it as it could mean an elder is unconscious and his life in danger. Accuracy provides the probability of said medical state.
+It is designed to give user an insight into the last anomaly detected, its accuracy and date+time of it as it could mean an elder is unconscious and his life in danger. Accuracy provides the probability of said medical state or other causes for the described outcome.
 
 To provide help to the elderly there is a phone number, location and some basic personal information that a caregiver can use to aid.
 
